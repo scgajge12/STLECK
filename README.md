@@ -8,6 +8,8 @@ SecHack365 では、25 歳以下の学生や若手社会人から公募選抜さ
 
 詳しい内容は[ホームページ](https://sechack365.nict.go.jp/)を閲覧してください。
 
+<br>
+
 ## STLECK とは
 
 ITやセキュリティに詳しくない一般の方が知識/意識不足が原因で起こるセキュリティ被害を減らす目的に作られたのがこのトランプカードになります。
@@ -53,6 +55,6 @@ ITやセキュリティに詳しくない一般の方が知識/意識不足が�
 
 興味を持ってくださった方や使って見たい方、啓発活動の参考にしたい方などがいればぜひご連絡ください。
 
-mail : secact.ym@gmail.com or morioka1831@gmail.com
+mail: secact.ym@gmail.com or morioka1831@gmail.com
 
-Twitter : @scgajge12
+Twitter: @scgajge12 or https://twitter.com/scgajge12
